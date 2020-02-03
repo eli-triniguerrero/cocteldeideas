@@ -1,6 +1,11 @@
 # COCTEL DE IDEAS
 
-Sitio web creado para prácticar maquetación con HTML5, CSS3 y Javascript, gracias a un curso en UDEMY.
+"Coctél de ideas" es una web propiedad
 
-----------------------------
+Sitio web creado para prácticar maquetación con HTML5, CSS3 y Javascript.
 
+------------------------------------------------------------
+
+Práctica sugerida por el curso de UDEMY "HTML y CSS Básico"
+
+------------------------------------------------------------
