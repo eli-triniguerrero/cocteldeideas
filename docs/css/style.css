@@ -2,9 +2,12 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background: palegoldenrod;    
+}
 
 h1 {
-    background: plum;
+    background: plum;    
 }
 
 h2 {
