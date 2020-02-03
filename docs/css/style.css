@@ -1,15 +1,60 @@
 * {
     margin: 0;
     padding: 0;
+    list-style: none;
+    font-family: 'Raleway', sans-serif;
 }
-body {
-    background: palegoldenrod;    
+/* .-.-.-.-tipografias-.-.-.-
+ LOGO
+font-family: 'Zhi Mang Xing', cursive;
+SUBTITULOS
+font-family: 'Oswald', sans-serif;
+TEXTO GRAL
+font-family: 'Raleway', sans-serif; */
+
+
+/* ///.\\\. H E A D E R .///.\\\. */
+.header {
+    position: relative;
+    margin: 2rem auto;
+    width: 100vw;
+    height: 20vh;
+    /* background: purple; */
 }
 
-h1 {
-    background: plum;    
+#logo {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 400px;
+    height: 60px;
+    font-family: 'Zhi Mang Xing';
+    font-size: 50px;
+    text-align: center;
+    line-height: 60px;
 }
-
-h2 {
+.social {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 42px;
+    color: white;
+}
+#btn-fb {
+    top: 42px;
+    right: 120px;
     background: paleturquoise;
 }
+#btn-twr {
+    top: 42px;
+    right: 71px;
+    background: powderblue;
+}
+#btn-gh {
+    top: 42px;
+    right: 19px;
+    background: palegreen;
+}
+
