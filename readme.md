@@ -1,11 +1,15 @@
 # COCTEL DE IDEAS
 
-"Coctél de ideas" es una web propiedad
+"Coctél de ideas" es una idea original de la propietaria de este repositorio.
+
+Web locochona con surtidito de información de todo tipo de información.
+
+-----------------------------------------------------------
 
 Sitio web creado para prácticar maquetación con HTML5, CSS3 y Javascript.
 
 ------------------------------------------------------------
 
-Práctica sugerida por el curso de UDEMY "HTML y CSS Básico"
+Práctica sugerida por el curso de UDEMY "HTML y CSS desde Cero"
 
 ------------------------------------------------------------
