@@ -49,16 +49,21 @@ font-family: 'Raleway', sans-serif; */
     right: 120px;
     background: paleturquoise;
 }
+#btn-fb:hover { background: aqua; }
+
 #btn-twr {
     top: 42px;
     right: 71px;
     background: powderblue;
 }
+#btn-twr:hover { background: blue; }
+
 #btn-gh {
     top: 42px;
     right: 19px;
     background: palegreen;
 }
+#btn-gh:hover { background: forestgreen; }
 /* ///.\\\.///.\\\.///.\\\.///.\\\.///.\\\.
 ///.\\\.///. NAVIGATION .///.\\\.///.
 ///.\\\.///.\\\.///.\\\.///.\\\.///.\\\.*/
@@ -79,10 +84,10 @@ font-family: 'Raleway', sans-serif; */
     text-align: center;
     line-height: 48px;
 }
-a .btns:hover {
-    background: palegoldenrod;
+.btns:hover {
+    background: palevioletred;
 }
-a .btns:active {
+.btns:active {
     background: rgb(87, 34, 87);
 }
 
