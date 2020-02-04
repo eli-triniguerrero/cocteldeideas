@@ -215,3 +215,15 @@ aside#box-der input[type="submit"] {
     background:rgba(100,0,100,.5);
     border: 0;
 }
+
+/* FOOTER */
+footer{
+	position:relative;
+	margin:300px auto;
+	width:1000px;
+	height:70px;
+	background:rgba(100,0,255,1);
+	text-align:center;
+	line-height:70px;
+	color:white;
+	}
