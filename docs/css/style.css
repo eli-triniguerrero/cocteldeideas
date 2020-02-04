@@ -148,6 +148,14 @@ font-family: 'Raleway', sans-serif; */
     width: 200px;
     height: 453px;
 }
+.box-izq ul li {
+    background: blueviolet;
+    padding: 10px;
+    margin: 2px 10px;
+    list-style: square;
+    list-style-position: inside;
+}
+
 
 
 
