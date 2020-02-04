@@ -21,8 +21,8 @@ font-family: 'Raleway', sans-serif; */
 .header {
     position: relative;
     margin: 1rem auto;
-    width: 100vw;
-    height: 20vh;
+    width: 90vw;
+    height: 150px;
     /* background: purple; */
 }
 #logo {
@@ -108,7 +108,7 @@ font-family: 'Raleway', sans-serif; */
     position: relative;
     margin: 20px auto;
     width: 1000px;
-    height: 192px;
+    height: 300px;
 }
 .top-content ul {
     width: 1010px;
@@ -155,6 +155,49 @@ font-family: 'Raleway', sans-serif; */
     list-style: square;
     list-style-position: inside;
 }
+/* ARTICULO UNO*/
+.art-one {
+    position: relative;
+    left: 200px;
+    top: 0;
+    width: 700px;
+    height: 453px;
+}
+.art-one h2 {
+    font-family: 'Oswald', sans-serif;
+    margin: 20px;
+}
+.art-one p img {
+    float: left;
+    margin-right: 20px;
+}
+.art-one p {
+    margin: 5px 20px;
+    font-size: 14px;
+    text-align: justify;
+}
+.box-der {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 200px;
+    height: 453px;
+}
+.box-der h3 {
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: palegreen;
+    /* color: white; */
+    margin-bottom: 5px;
+}
+.box-der input {
+    padding: 10px;
+    margin: 5px 0;
+    widows: 176px;
+}
+
 
 
 
