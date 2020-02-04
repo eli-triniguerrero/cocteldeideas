@@ -160,7 +160,7 @@ font-family: 'Raleway', sans-serif; */
     position: relative;
     left: 200px;
     top: 0;
-    width: 700px;
+    width: 650px;
     height: 453px;
 }
 .art-one h2 {
@@ -171,19 +171,20 @@ font-family: 'Raleway', sans-serif; */
     float: left;
     margin-right: 20px;
 }
+.art-one img { width: 380px;}
 .art-one p {
     margin: 5px 20px;
     font-size: 14px;
     text-align: justify;
 }
-.box-der {
+#box-der {
     position: absolute;
     right: 0;
     top: 0;
     width: 200px;
     height: 453px;
 }
-.box-der h3 {
+box-der h3 {
     width: 200px;
     height: 50px;
     line-height: 50px;
@@ -192,13 +193,25 @@ font-family: 'Raleway', sans-serif; */
     /* color: white; */
     margin-bottom: 5px;
 }
-.box-der input {
+ aside input {
     padding: 10px;
     margin: 5px 0;
-    widows: 176px;
+    width: 176px;
 }
-
-
-
-
-
+ aside#box-der input[type="text"]{
+    background-image: url(img/usuario.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+aside#box-der input[type="password"] {
+    background-image: url(img/password.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
+aside#box-der input[type="submit"] {
+    width: 200px;
+    background:rgba(100,0,100,.5);
+    border: 0;
+}
