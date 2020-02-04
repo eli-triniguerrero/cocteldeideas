@@ -4,6 +4,7 @@
     list-style: none;
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
+    color: #333333;
 }
 /* .-.-.-.-tipografias-.-.-.-
  LOGO
@@ -26,9 +27,9 @@ font-family: 'Raleway', sans-serif; */
 }
 #logo {
     position: absolute;
-    top: 30px;
+    top: 10px;
     left: 30px;
-    width: 400px;
+    width: 600px;
     height: 60px;
     font-family: 'Zhi Mang Xing';
     font-size: 50px;
@@ -132,4 +133,21 @@ font-family: 'Raleway', sans-serif; */
     font-size: 14px;
     margin: 10px;
 }
+
+/*SECTION */
+.section-one {
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    height: 453px;
+}
+.box-izq {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 200px;
+    height: 453px;
+}
+
+
 
