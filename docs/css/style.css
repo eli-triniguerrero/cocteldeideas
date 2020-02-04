@@ -19,7 +19,7 @@ font-family: 'Raleway', sans-serif; */
 ///.\\\.///.\\\.///.\\\.///.\\\.///.\\\.*/
 .header {
     position: relative;
-    margin: 2rem auto;
+    margin: 1rem auto;
     width: 100vw;
     height: 20vh;
     /* background: purple; */
@@ -80,9 +80,9 @@ font-family: 'Raleway', sans-serif; */
     line-height: 48px;
 }
 a .btns:hover {
-    background: rgb(179, 90, 179);
+    background: palegoldenrod;
 }
 a .btns:active {
-    background: rgb(153, 64, 153);
+    background: rgb(87, 34, 87);
 }
 
