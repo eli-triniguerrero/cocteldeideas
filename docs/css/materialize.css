@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
+.sidenav {
+    height: 90vh;
+}
+
+/* ARTICULO UNO */
+.article-one {
+    margin: 5rem;
+} 
+.art-one {
+    position: relative;
+    margin: 1rem 1rem;
+}
+.art-one h2 {
+    font-family: 'Oswald', sans-serif;
+    margin: 2rem auto;
+    text-align: center;
+}
+.art-one p img {
+    margin-right: 1rem auto;
+}
+.art-one img { 
+    width: 380px;
+}
+.art-one p {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+@media screen and (min-width: 500px ) {
+    .article-one {
+        margin: 0;
+    } 
+    .art-one p img {
+        float: left;
+        margin-right: 2rem;
+    }
+    
+}
